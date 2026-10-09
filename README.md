@@ -30,7 +30,7 @@ Information Technology student at Universitas Internasional Batam — building a
 - **[kudofools-infra](https://github.com/izayoilv/kudofools-infra)** — self-hosted Kubernetes platform: Flux CD GitOps, OpenTofu, OpenBao, Woodpecker CI, and full observability.
 - **[pendaftaran-uib](https://github.com/izayoilv/pendaftaran-uib)** — university registration system (Next.js + Go/Chi + MySQL/MongoDB); primary developer of a 4-person team.
 - **[intikepri-static](https://github.com/izayoilv/intikepri-static)** — Next.js static site for INTI Kepri, in production at intikepri.com (design and SEO co-developed with a collaborator).
-- **[statistical-gadget-use](https://github.com/JonatanHasino/statistical-gadget-use)** — reproducible Python statistics pipeline (Polars/SciPy) with a LaTeX research paper.
+- **[statistical-gadget-use](https://github.com/JonatanHasino/statistical-gadget-use)** — co-authored research paper: I built its reproducible Python statistics pipeline (Polars/SciPy) and generated the figures and LaTeX used in the paper.
 
 ## Contact
 
