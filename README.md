@@ -35,6 +35,6 @@ Information Technology student at Universitas Internasional Batam — building a
 ## Contact
 
 - Email: izayoilv@gmail.com
-- LinkedIn: [vincent-yongky-pratama](https://www.linkedin.com/in/vincent-yongky-pratama-7485a235a)
+- LinkedIn: [vincent-yongky](https://www.linkedin.com/in/vincent-yongky)
 - Resume: [PDF](https://github.com/izayoilv/resume/blob/main/Vincent_Yongky_Pratama_Resume.pdf)
 - Location: Batam, Indonesia
