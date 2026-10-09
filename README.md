@@ -5,7 +5,7 @@ Information Technology student at Universitas Internasional Batam — building a
 ## About
 
 - IT student (3rd term, GPA 3.70/4.00), expected graduation 2029.
-- Maintain the website and microservices of INTI Kepri ([intikepri.com](https://intikepri.com)): Rust (Axum) CMS, Next.js frontend, GitOps delivery on a self-hosted k3s cluster.
+- Build and operate the CMS and platform behind intikepri.com for INTI Kepri: Rust (Axum) CMS with OpenBao-issued JWTs, GitOps delivery on a self-hosted k3s cluster (frontend design and SEO co-developed with a collaborator).
 - Run a personal platform ([kudofools-infra](https://github.com/izayoilv/kudofools-infra)): single-node k3s on a Raspberry Pi 5 plus a Vultr VPS — Flux CD, OpenTofu, OpenBao, Woodpecker CI, and observability with VictoriaMetrics/Grafana.
 - Open to DevOps/backend internships and junior roles, remote or on-site in Batam.
 
@@ -29,7 +29,7 @@ Information Technology student at Universitas Internasional Batam — building a
 
 - **[kudofools-infra](https://github.com/izayoilv/kudofools-infra)** — self-hosted Kubernetes platform: Flux CD GitOps, OpenTofu, OpenBao, Woodpecker CI, and full observability.
 - **[pendaftaran-uib](https://github.com/izayoilv/pendaftaran-uib)** — university registration system (Next.js + Go/Chi + MySQL/MongoDB); primary developer of a 4-person team.
-- **[intikepri-static](https://github.com/izayoilv/intikepri-static)** — Next.js static site for INTI Kepri, in production at intikepri.com.
+- **[intikepri-static](https://github.com/izayoilv/intikepri-static)** — Next.js static site for INTI Kepri, in production at intikepri.com (design and SEO co-developed with a collaborator).
 - **[statistical-gadget-use](https://github.com/JonatanHasino/statistical-gadget-use)** — reproducible Python statistics pipeline (Polars/SciPy) with a LaTeX research paper.
 
 ## Contact
